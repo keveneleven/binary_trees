@@ -3,7 +3,7 @@
 /**
  * binary_tree_height - function that measures the height
  * of a node in a binary tree
- * @tre: Pointer to root node of the the tree to meaasure the height
+ * @tree: Pointer to root node of the the tree to meaasure the height
  *
  * Return: Height else 0 if tree is NULL
  */
