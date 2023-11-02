@@ -45,6 +45,6 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tr
 	}
 	first_depth--;
 	second_depth--;
-	return lca;
+	return (anc);
 }
 
